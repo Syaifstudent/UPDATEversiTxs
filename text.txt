@@ -1,62 +1,32 @@
-/* ======================================================
-   SHADOW SYSTEM UPDATE
-   CORE UPGRADE PROCESS
-   ====================================================== */
+/* =====================================
+   PANEL STATUS : DOWN
+   ===================================== */
 
-system.init();
-kernel.load("shadow-core");
+system.check();
+panel.status     = DOWN;
+panel.connection = UNAVAILABLE;
 
-/* STATUS UPGRADE */
-upgrade.progress   = 50%;
-upgrade.status     = RUNNING;
-upgrade.mode       = SAFE_UPDATE;
-upgrade.visibility = PUBLIC;
+/* INFO */
+log.warn("Panel saat ini tidak dapat diakses.");
+log.info("Layanan dihentikan sementara.");
 
-/* TAMPILAN */
-ui.state        = PROCESSING;
-ui.lock_input   = PARTIAL;
-ui.message      = "Proses sedang berjalan, mohon tunggu";
+/* STATUS LAYANAN */
+service.dashboard = OFFLINE;
+service.api       = OFFLINE;
+service.tools     = STANDBY;
 
-/* DAFTAR TOOLS */
-tools.TQTO        = INSTALLED;     // siap digunakan
-tools.TOURL       = INSTALLED;     // stabil
-tools.DOWNLOAD    = INSTALLED;     // aktif
-tools.SENDER      = FIXED;         // perbaikan selesai
-tools.DDOS        = INSTALLED;     // konfigurasi aman
-tools.NIK_PRSNT   = INSTALLED;     // valid
-tools.MUSIK       = ACTIVE;        // mode single play
-
-/* PROSES LANJUTAN */
-system.optimize();
-system.check_integrity();
-system.search_new_tools();
-
-/* INFO KE USER */
-log.info("Beberapa tools telah berhasil di-upgrade.");
-log.info("Sisa proses sedang disiapkan.");
-log.info("Tidak ada error yang terdeteksi.");
-
-/* PESAN UNTUK PENGGUNA */
+/* CATATAN */
 notice.user = "
-Shadow sedang dalam tahap peningkatan sistem.
-Beberapa fitur telah aktif dan dapat digunakan.
+Panel sedang down sementara.
+Tidak ada kehilangan data.
+Mohon untuk tidak melakukan login atau request berulang.
 
-Proses ini dilakukan untuk memastikan:
-- Sistem lebih stabil
-- Tools berjalan optimal
-- Keamanan tetap terjaga
-
-Mohon menunggu hingga proses selesai sepenuhnya.
-Update akan dirilis secepat mungkin.
+Silakan tunggu hingga panel kembali normal.
 ";
 
 /* ESTIMASI */
-release.target = ASAP;
-release.note   = "Rilis setelah semua modul siap";
+panel.recovery = IN_PROGRESS;
+panel.target   = ASAP;
 
 /* DEVELOPER */
-developer.name   = "XYZAIF";
-developer.status = ACTIVE;
-
-/* HOLD PROCESS */
-system.wait();
+DEV : XYZAIF

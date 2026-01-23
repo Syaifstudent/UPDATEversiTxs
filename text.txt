@@ -1,32 +1,45 @@
 /* =====================================
-   PANEL STATUS : DOWN
+   SYSTEM STATUS : ON PROCESS
    ===================================== */
 
 system.check();
-panel.status     = DOWN;
-panel.connection = UNAVAILABLE;
+system.status = PROCESSING;
 
-/* INFO */
-log.warn("Panel saat ini tidak dapat diakses.");
-log.info("Layanan dihentikan sementara.");
+/* TIM CODING */
+team.active = [
+  "David",
+  "Aryapiw",
+  "Pan"
+];
 
-/* STATUS LAYANAN */
-service.dashboard = OFFLINE;
-service.api       = OFFLINE;
-service.tools     = STANDBY;
+/* INFORMASI SISTEM */
+log.info("Sistem sedang mengalami penyesuaian.");
+log.info("Beberapa fungsi sementara dibatasi.");
+log.info("Tidak ada data yang hilang.");
 
-/* CATATAN */
+/* PROSES */
+system.debug();
+system.stabilize();
+system.sync();
+
+/* PESAN UNTUK PENGGUNA */
 notice.user = "
-Panel sedang down sementara.
-Tidak ada kehilangan data.
-Mohon untuk tidak melakukan login atau request berulang.
+Mohon bersabar.
+Saat ini sistem masih dalam proses penanganan.
 
-Silakan tunggu hingga panel kembali normal.
+Tim coding (David, Aryapiw, dan Pan)
+sedang melakukan pengecekan dan perbaikan
+agar sistem kembali normal dan stabil.
+
+Proses dilakukan secara bertahap
+untuk memastikan keamanan dan kestabilan sistem.
 ";
 
-/* ESTIMASI */
-panel.recovery = IN_PROGRESS;
-panel.target   = ASAP;
+/* STATUS */
+system.recovery = ON_PROGRESS;
+system.target   = SECEPAT_MUNGKIN;
 
 /* DEVELOPER */
 DEV : XYZAIF
+
+/* END */

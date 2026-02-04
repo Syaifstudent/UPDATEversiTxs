@@ -1,45 +1,26 @@
-/* =====================================
-   SYSTEM STATUS : ON PROCESS
-   ===================================== */
+$ initializing application...
+$ checking system stability...
 
-system.check();
-system.status = PROCESSING;
+====================================
+        PEMBERITAHUAN
+====================================
+Aplikasi ini sedang berada dalam
+tahap pengembangan aktif.
 
-/* TIM CODING */
-team.active = [
-  "David",
-  "Aryapiw",
-  "Pan"
-];
+Developer berkomitmen untuk:
+- Meningkatkan performa aplikasi
+- Menjaga keamanan data pengguna
+- Menyempurnakan fitur secara bertahap
 
-/* INFORMASI SISTEM */
-log.info("Sistem sedang mengalami penyesuaian.");
-log.info("Beberapa fungsi sementara dibatasi.");
-log.info("Tidak ada data yang hilang.");
+Kami mohon kesabaran dan dukungan
+dari para pengguna selama proses
+pengembangan berlangsung.
 
-/* PROSES */
-system.debug();
-system.stabilize();
-system.sync();
+Terima kasih telah menggunakan
+aplikasi ini.
 
-/* PESAN UNTUK PENGGUNA */
-notice.user = "
-Mohon bersabar.
-Saat ini sistem masih dalam proses penanganan.
+Developer : XYZAIF
+====================================
 
-Tim coding (David, Aryapiw, dan Pan)
-sedang melakukan pengecekan dan perbaikan
-agar sistem kembali normal dan stabil.
-
-Proses dilakukan secara bertahap
-untuk memastikan keamanan dan kestabilan sistem.
-";
-
-/* STATUS */
-system.recovery = ON_PROGRESS;
-system.target   = SECEPAT_MUNGKIN;
-
-/* DEVELOPER */
-DEV : XYZAIF
-
-/* END */
+$ system running normally
+$ wait for next update...

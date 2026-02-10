@@ -1,26 +1,14 @@
-$ initializing application...
-$ checking system stability...
+$ initializing apology.sh
+$ loading reason...
 
-====================================
-        PEMBERITAHUAN
-====================================
-Aplikasi ini sedang berada dalam
-tahap pengembangan aktif.
+[ ERROR ]
+Update system terlalu ribet
+Process memakan waktu lebih lama dari yang diharapkan
 
-Developer berkomitmen untuk:
-- Meningkatkan performa aplikasi
-- Menjaga keamanan data pengguna
-- Menyempurnakan fitur secara bertahap
+[ STATUS ]
+Keterlambatan : TRUE
 
-Kami mohon kesabaran dan dukungan
-dari para pengguna selama proses
-pengembangan berlangsung.
-
-Terima kasih telah menggunakan
-aplikasi ini.
-
-Developer : XYZAIF
-====================================
-
-$ system running normally
-$ wait for next update...
+[ MESSAGE ]
+Mohon maaf ya atas keterlambatannya 🙏
+Bukan disengaja, tapi karena update-nya ribet banget
+Terima kasih sudah menunggu

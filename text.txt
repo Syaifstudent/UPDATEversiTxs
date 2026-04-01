@@ -1,7 +1,45 @@
-⚠️ ALERT: PANEL MATI
-Aplikasi dalam kondisi OFF sementara.
-Sistem menunggu reaktivasi.
-Harap bersabar dan jangan panic.
+[ SYSTEM NOTICE ]
+────────────────────────────────────────
 
-────────────────────────────
-          Dev XYZAIF
+> initializing message...
+> loading developer status...
+> status : OFFLINE
+
+────────────────────────────────────────
+
+[ PERMOHONAN MAAF ]
+
+Kami selaku developer menyampaikan
+permohonan maaf sebesar-besarnya
+kepada seluruh user & member setia.
+
+Dikarenakan suatu hal yang tidak bisa
+dijelaskan secara detail, maka:
+
+> developer resmi PENSIUN
+> seluruh project dihentikan
+> service tidak lagi dilanjutkan
+
+Terima kasih atas support, kepercayaan,
+dan perjalanan yang telah dilalui bersama.
+
+────────────────────────────────────────
+
+> shutting down system...
+> disconnecting...
+
+[ FINAL STATUS : TERMINATED ]
+
+────────────────────────────────────────
+
+
+███╗    ███╗ █████╗  █████╗ ███████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝
+██╔████╔██║███████║███████║█████╗  
+██║╚██╔╝██║██╔══██║██╔══██║██╔══╝  
+██║ ╚═╝ ██║██║   ██║██║  ██║██║     
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
+
+           ▓▒░ XYZIF ░▒▓
+   
+          Developer: syaif

@@ -1,45 +1,41 @@
-[ SYSTEM NOTICE ]
+[ NOTIFIKASI SISTEM ]
 ────────────────────────────────────────
 
-> initializing message...
-> loading developer status...
-> status : OFFLINE
+> memulai pesan...
+> memuat status developer...
+> status : NONAKTIF
 
 ────────────────────────────────────────
 
 [ PERMOHONAN MAAF ]
 
-Saya selaku developer menyampaikan
+Kami selaku developer menyampaikan
 permohonan maaf sebesar-besarnya
-kepada seluruh user & member setia.
+kepada seluruh pengguna & member setia.
 
-Dikarenakan suatu hal yang tidak bisa
+Dikarenakan suatu hal yang tidak dapat
 dijelaskan secara detail, maka:
 
 > developer resmi PENSIUN
 > seluruh project dihentikan
-> service tidak lagi dilanjutkan
+> layanan tidak lagi dilanjutkan
 
-Terima kasih atas support, kepercayaan,
+Terima kasih atas dukungan, kepercayaan,
 dan perjalanan yang telah dilalui bersama.
 
 ────────────────────────────────────────
 
-> shutting down system...
-> disconnecting...
+> mematikan sistem...
+> memutus koneksi...
 
-[ FINAL STATUS : TERMINATED ]
+[ STATUS AKHIR : DIHENTIKAN ]
 
 ────────────────────────────────────────
 
 
-███╗   ███╗ █████╗  █████╗ ██████╗
-████╗ ████║██╔══██╗██╔══██╗██╔════╝
-██╔████╔██║███████║███████║█████╗  
-██║╚██╔╝██║██╔══██║██╔══██║██╔══╝  
-██║ ╚═╝ ██║██║  ██║██║  ██║██║     
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
+  █▀ █░█ ▄▀█ █▀▄ █▀█ █░ ░█ 
+  ▄█ █▀█ █▀█ █▄▀ █▄█ ▀▄▀▄▀
 
-      ▓▒░ X Y Z A I F ░▒▓
+    SHADOW STEALER SIYSEM OFF
 
        Developer: syaif

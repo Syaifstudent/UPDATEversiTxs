@@ -9,7 +9,7 @@
 
 [ PERMOHONAN MAAF ]
 
-Saya selaku developer menyampaikan
+Kami selaku developer menyampaikan
 permohonan maaf sebesar-besarnya
 kepada seluruh pengguna & member setia.
 
@@ -25,6 +25,24 @@ dan perjalanan yang telah dilalui bersama.
 
 ────────────────────────────────────────
 
+[ INFORMASI LANJUTAN ]
+
+Bagi siapa saja yang ingin meneruskan
+project ini dan menjadi developer pengganti,
+
+kami membuka kesempatan tersebut
+dengan syarat memiliki niat, tanggung jawab,
+dan konsistensi dalam pengembangan.
+
+Seluruh pembelajaran, dasar sistem,
+serta pengalaman dari developer sebelumnya
+akan diberikan secara penuh sebagai bekal.
+
+> akses pembelajaran : FULL
+> bimbingan dasar : TERSEDIA
+
+────────────────────────────────────────
+
 > mematikan sistem...
 > memutus koneksi...
 
@@ -33,9 +51,9 @@ dan perjalanan yang telah dilalui bersama.
 ────────────────────────────────────────
 
 
-  █▀ █░█ ▄▀█ █▀▄ █▀█ █░ ░█ 
+  █▀ █░█ ▄▀█ █▀▄ █▀█ █░ ░█
   ▄█ █▀█ █▀█ █▄▀ █▄█ ▀▄▀▄▀
 
-    SHADOW STEALER SIYSEM OFF
+      SHADOW STEALER
 
-       Developer: syaif
+     Developer: syaif
